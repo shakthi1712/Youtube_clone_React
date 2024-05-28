@@ -377,14 +377,16 @@ a {
   }
 
   .video-container {
-    margin-bottom: 0px;
-    padding: 0px ;
+    margin-bottom: 90px;
     border-radius: 0%;
   }
 
   .video-page {
-    margin: 0;
-    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0px;
   }
   .video-page img{
     width: 400px;
@@ -394,8 +396,8 @@ a {
   }
 
   .play-container {
-    padding-left: 5%;
-    padding-right: 5%;
+     padding-left: 5%;
+    padding-right: 5%; 
   }
 
   .play-video {
