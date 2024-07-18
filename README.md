@@ -65,10 +65,6 @@ To get a local copy up and running, follow these steps:
 
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
 
-### License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 This description provides a clear and concise overview of the project, its features, technologies used, and instructions for getting started.
